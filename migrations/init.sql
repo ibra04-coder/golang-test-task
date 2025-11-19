@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS numbers (
+    id SERIAL PRIMARY KEY,
+    val INTEGER NOT NULL
+);
